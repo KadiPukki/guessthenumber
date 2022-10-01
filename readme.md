@@ -10,7 +10,7 @@ When the player discovers the secret number, the game screen changes color and a
 
 ### Screenshot
 
-![Page](./images).png)
+![Main Page](./assets/images/guessthenumber.png).png)
 
 
 ### Built with
