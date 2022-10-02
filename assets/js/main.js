@@ -37,5 +37,7 @@ document.querySelector('.again').addEventListener('click', function() {
 
     document.querySelector('#yournumber').value = '';
 
-    document.querySelector('body').style.backgroundColor = rgb(15, 16, 16);
+    document.querySelector('body').style.backgroundColor = 'rgb(15, 16, 16)';
+
+    document.querySelector('#yournumber').style.backgroundColor = 'rgb(15, 16, 16)';
 });
